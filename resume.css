@@ -1,0 +1,45 @@
+body {
+    background-color: #e0e0e0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  }
+
+
+  .full-name {
+     text-align: center;
+  }
+
+  .email {
+    text-align: center;
+ }
+
+ .phone-number {
+    text-align: center;
+ }
+
+ .address {
+    text-align: center;
+    
+ }
+
+ .relevant-skills {
+    text-align: left;
+    
+   
+ }
+
+ .certifications {
+    text-align: left;
+    
+ }
+
+ .headline {
+   font-weight: bold;
+   
+}
+
+.job-title {
+   font-style: italic;
+   
+}
+
+
