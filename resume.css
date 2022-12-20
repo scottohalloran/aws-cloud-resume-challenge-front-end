@@ -5,19 +5,19 @@ body {
 
 
   .full-name {
-     text-align: center;
+     text-align: left;
   }
 
   .email {
-    text-align: center;
+    text-align: left;
  }
 
  .phone-number {
-    text-align: center;
+    text-align: left;
  }
 
  .address {
-    text-align: center;
+    text-align: left;
     
  }
 
