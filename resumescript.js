@@ -1,3 +1,3 @@
-fetch('https://7mbgnyp4ge.execute-api.us-east-1.amazonaws.com/prod/faigh')
+fetch('https://awsresumeapi-tf.scottohallorancv.com/faigh')
   .then(response => response.text())
   .then(hitCount => document.getElementById('count').innerHTML= hitCount)
